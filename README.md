@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @professionella
 - 👀 I’m interested in people's journey to passion projects and volleyball
-- 🌱 I’m currently learning web3.0
+- 🌱 I’m currently learning Jira time tracking
 - 💞️ I’m looking to collaborate on workflow efficency
 - 📫 How to reach me info@nellajuma.com
 
